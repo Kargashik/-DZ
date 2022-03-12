@@ -50,3 +50,9 @@ for i in range(6):
     else:
       s += '*'
   print(s)
+   *  
+  ***  
+ ***** 
+*******
+   *   
+   *   
